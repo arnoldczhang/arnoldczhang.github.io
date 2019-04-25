@@ -7,6 +7,8 @@ company: mtdp
 company_url: /
 github_username: arnoldzhang
 github_url: https://github.com/arnoldczhang
+skill_software_keywords:
+  - javascript
 navs:
   - label: about
     href: /about
