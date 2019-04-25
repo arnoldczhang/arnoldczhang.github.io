@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-title: I am Arnold
+title: I am Arnold!
 name: ArnoldZhang
 navs:
-  - About
-  - Recents
+  - title: About
+    url: /about/
+  - title: About
+    url: /about/
