@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: I am Arnold!
 name: ArnoldZhang
+location: Shanghai
+company: mtdp
+github_username: arnoldzhang
 navs:
   - title: About
     url: /about/
