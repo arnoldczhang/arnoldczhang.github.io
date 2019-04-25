@@ -3,9 +3,11 @@ title: I am Arnold!
 name: ArnoldZhang
 location: Shanghai
 company: mtdp
+company_url: /
 github_username: arnoldzhang
+github_url: https://github.com/arnoldczhang
 navs:
-  - title: About
-    url: /about/
-  - title: About
-    url: /about/
+  - label: about
+    href: /about
+  - label: open-source
+    href: /open-source
