@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
-title: Post title
+title: I am Arnold
+name: ArnoldZhang
+navs:
+  - About
+  - Recents
